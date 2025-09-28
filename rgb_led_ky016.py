@@ -12,7 +12,7 @@ ESP32 S3 MicroPython용
 // By : Kit Plus
 //*******************************************************************************
 
-원저작자: Kit Plus
+원저작자: COMPASS
 원본 프로젝트: 13_LED in Sensor Kit
 원본 보드: Arduino Uno
 
