@@ -3,6 +3,17 @@ RGB LED KY-016 사용 예제
 ESP32 S3 MicroPython용
 
 이 예제는 RGB LED KY-016 라이브러리의 사용법을 보여줍니다.
+
+원본 Arduino 코드 출처:
+//*******************************************************************************
+// Project : 13_LED in Sensor Kit
+// Board : Arduino Uno 
+// By : Kit Plus
+//*******************************************************************************
+
+원저작자: Kit Plus
+원본 프로젝트: 13_LED in Sensor Kit
+원본 보드: Arduino Uno
 """
 
 from rgb_led_ky016 import RGBLedKY016

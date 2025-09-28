@@ -3,7 +3,20 @@ RGB LED KY-016 라이브러리
 ESP32 S3 MicroPython용
 
 이 라이브러리는 RGB LED KY-016 모듈을 제어하기 위한 클래스를 제공합니다.
-공통 애노드 타입의 RGB LED를 지원합니다.
+공통 캐소드 타입의 RGB LED를 지원합니다.
+
+원본 Arduino 코드 출처:
+//*******************************************************************************
+// Project : 13_LED in Sensor Kit
+// Board : Arduino Uno 
+// By : Kit Plus
+//*******************************************************************************
+
+원저작자: Kit Plus
+원본 프로젝트: 13_LED in Sensor Kit
+원본 보드: Arduino Uno
+
+이 코드는 원본 Arduino 코드를 MicroPython으로 포팅한 것입니다.
 """
 
 from machine import Pin, PWM
